@@ -1,0 +1,20 @@
+# Binaries for the application
+poponchu-cli
+
+# Test binaries and output
+*.test
+*.out
+
+# Go module cache
+# go.mod and go.sum are usually committed, but go.work and go.work.sum are often ignored
+go.work
+go.work.sum
+
+# Tooling installed by Makefile
+bin/
+
+# OS generated files
+.DS_Store
+
+# IDE specific files (example for VS Code)
+.vscode/
